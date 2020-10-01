@@ -10,6 +10,8 @@ featuredimage: /img/products-grid2.jpg
 tags:
   - general
 ---
+![](/img/products-grid2.jpg)
+
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
 This is a paragraph.
